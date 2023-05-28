@@ -1,0 +1,5 @@
+analise de o que o sistema vai utilizar 
+melhor liguagem 
+criaçao
+segurança
+backups
